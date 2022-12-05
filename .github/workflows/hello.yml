@@ -9,6 +9,6 @@ jobs:
   hello_word:
     runs-on: ubuntu-18.04
     steps:
-      - name: Echo the menssage
+      - name: Echo the message
         run: |
-          echi "hola mindu!"
+          echo "hola mindu!"
